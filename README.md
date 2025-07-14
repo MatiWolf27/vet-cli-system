@@ -154,9 +154,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tu-perfil)
-
+- **LinkedIn**: https://www.linkedin.com/in/matias-lobos-396725208/
 ---
 
 ⭐ Si este proyecto te resulta útil, ¡dale una estrella en GitHub! 
